@@ -1,0 +1,1 @@
+The  trained model and log file will be saved in ./model folder.
