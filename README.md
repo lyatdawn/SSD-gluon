@@ -1,4 +1,4 @@
-# SSD-gulon
+# SSD-gluon
 * gluon implementation of SSD in the paper "SSD: Single Shot MultiBox Detector"[[Paper]](https://arxiv.org/pdf/1512.02325.pdf).
 * This code borrowed from https://zh.gluon.ai/chapter_computer-vision/ssd.html.
 
